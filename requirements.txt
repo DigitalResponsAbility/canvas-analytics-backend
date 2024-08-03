@@ -1,0 +1,6 @@
+Flask
+requests
+pandas
+matplotlib
+xlsxwriter
+flask-cors
